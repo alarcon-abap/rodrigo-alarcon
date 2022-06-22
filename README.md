@@ -11,7 +11,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![SAP](https://img.shields.io/badge/-SAP|ABAP-05122A?style=for-the-badge&logo=appveyor;
+![SAP](https://img.shields.io/badge/-SAP|ABAP-05122A?style=for-the-badge&logo=sap)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Adobe](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
