@@ -1,7 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rodrigo de O. Alarcon</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alarcon-abap&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor SAP ABAP | PI
+- 🔥 Desenvolvedor SAP ABAP | PI | CPI | CDS View
+
+- 🔭 I’m currently working at [Numen](https://numenit.com/) - Alocado para [Natura](https://natura.com/br/)
 
 - 🔭 I’m currently working at [Numen](https://numenit.com/) - Alocado para [EMBRAER](https://embraer.com/br/)
 
